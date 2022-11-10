@@ -7,4 +7,4 @@
 + **Anschrif**: Erde
 + *Unterschrift*: AliMaliHali
 + 
-![]("frosch.jpg")
+![](frosch.jpg)
